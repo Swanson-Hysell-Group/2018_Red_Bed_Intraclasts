@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+BRIC	Bad River, Wisconsin	46.4	-90.6		This study

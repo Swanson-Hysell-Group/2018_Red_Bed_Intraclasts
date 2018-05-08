@@ -1,0 +1,47 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,BRIC,,,,,,,,,,,,,,,,,,,,,
+site_name,Freda Sandstone intraclast conglomerate test,,,,,,,,,,,,,,,,,,,,,
+site_lat,46.38664829,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,-90.63727492,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+.1a,mag compass orientation (IGRF corrected),16.6,344,23.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,4.0,1.0,1.0,1.0,nan,nan,[357.86874688560846; 72.609105715928479; 55855.799846554793],-2.13125311439,insufficient data,341.9,nan
+.2a,mag compass orientation (IGRF corrected),16.6,4,20.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,4.0,1.0,1.0,1.0,nan,nan,[357.86874688560846; 72.609105715928479; 55855.799846554793],-2.13125311439,insufficient data,1.9,nan
+.3a,mag compass orientation (IGRF corrected),16.54,331,20.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,4.0,1.0,1.0,1.0,nan,nan,[357.86874688560846; 72.609105715928479; 55855.799846554793],-2.13125311439,insufficient data,328.9,nan
+.4a,mag compass orientation (IGRF corrected),18.12,159,12.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,4.0,1.0,1.0,1.0,nan,nan,[357.86874688560846; 72.609105715928479; 55855.799846554793],-2.13125311439,insufficient data,156.9,nan
+.5a,mag compass orientation (IGRF corrected),16.34,26,12.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,4.0,1.0,1.0,1.0,nan,nan,[357.86874688560846; 72.609105715928479; 55855.799846554793],-2.13125311439,insufficient data,23.9,nan
+.6a,mag compass orientation (IGRF corrected),15.54,83,19.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,80.9,nan
+.8a,mag compass orientation (IGRF corrected),15.48,82,18.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,79.9,nan
+.9a,sun compass orientation,15.53,192,12.0,211.2,73.1,no,237.0,-5.0,2016.0,8.0,5.0,11.0,22.0,1.0,nan,191.6,[357.86851599570406; 72.60886596274797; 55855.34277090901],-2.1314840043,-0.4,191.6,nan
+.10a,mag compass orientation (IGRF corrected),15.58,132,19.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,129.9,nan
+.11a,mag compass orientation (IGRF corrected),15.58,81,22.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,78.9,nan
+.12a,mag compass orientation (IGRF corrected),13.63,18,29.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,15.9,nan
+.13a,mag compass orientation (IGRF corrected),13.63,5,37.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,2.9,nan
+.14a,mag compass orientation (IGRF corrected),13.85,20,29.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,17.9,nan
+.15a,mag compass orientation (IGRF corrected),13.68,27,34.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,24.9,nan
+.16a,sun compass orientation,13.63,227,17.0,211.2,73.1,no,215.0,-5.0,2016.0,8.0,5.0,13.0,29.0,1.0,nan,224.9,[357.86850176821412; 72.60885118888271; 55855.314605680629],-2.13149823179,-2.1,224.9,nan
+.17a,mag compass orientation (IGRF corrected),10.12,222,21.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,219.9,nan
+.18a,mag compass orientation (IGRF corrected),10.12,234,21.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,231.9,nan
+.19a,mag compass orientation (IGRF corrected),10.12,188,26.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,185.9,nan
+.20a,mag compass orientation (IGRF corrected),0.6,71,49.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,68.9,nan
+.21a,mag compass orientation (IGRF corrected),4.26,21,22.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,18.9,nan
+.22a,mag compass orientation (IGRF corrected),4.26,43,35.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,40.9,nan
+.23a,mag compass orientation (IGRF corrected),4.26,32,37.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,29.9,nan
+.24a,mag compass orientation (IGRF corrected),5.26,52,24.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,49.9,nan
+.25a,mag compass orientation (IGRF corrected),4.26,35,11.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,32.9,nan
+.26a,mag compass orientation (IGRF corrected),0.6,42,47.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,39.9,nan
+.27a,mag compass orientation (IGRF corrected),0.4,33,25.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,30.9,nan
+.28a,mag compass orientation (IGRF corrected),0.6,45,40.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,42.9,nan
+.29a,mag compass orientation (IGRF corrected),0.6,44,30.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,41.9,nan
+.30a,mag compass orientation (IGRF corrected),0.6,41,36.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,38.9,nan
+.31a,mag compass orientation (IGRF corrected),1.96,76,25.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,73.9,nan
+.32a,mag compass orientation (IGRF corrected),1.6,315,37.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,312.9,nan
+.33a,mag compass orientation (IGRF corrected),1.6,22,34.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,19.9,nan
+.34a,mag compass orientation (IGRF corrected),1.6,314,14.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,311.9,nan
+.35a,mag compass orientation (IGRF corrected),1.6,211,13.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,208.9,nan
+.36a,mag compass orientation (IGRF corrected),0,23,22.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,5.0,1.0,1.0,1.0,nan,nan,[357.8685855648996; 72.608938203230252; 55855.480492280301],-2.1314144351,insufficient data,20.9,nan
+.37a,mag compass orientation (IGRF corrected),0,33,31.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,6.0,1.0,1.0,1.0,nan,nan,[357.86842424535769; 72.608770688486899; 55855.161138522832],-2.13157575464,insufficient data,30.9,nan
+.38a,mag compass orientation (IGRF corrected),0,28,21.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,6.0,1.0,1.0,1.0,nan,nan,[357.86842424535769; 72.608770688486899; 55855.161138522832],-2.13157575464,insufficient data,25.9,nan
+.39a,mag compass orientation (IGRF corrected),0,31,22.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,6.0,1.0,1.0,1.0,nan,nan,[357.86842424535769; 72.608770688486899; 55855.161138522832],-2.13157575464,insufficient data,28.9,nan
+.40a,mag compass orientation (IGRF corrected),0,308,37.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,6.0,1.0,1.0,1.0,nan,nan,[357.86842424535769; 72.608770688486899; 55855.161138522832],-2.13157575464,insufficient data,305.9,nan
+.41a,mag compass orientation (IGRF corrected),0,346,12.0,211.2,73.1,no,nan,-5.0,2016.0,8.0,6.0,1.0,1.0,1.0,nan,nan,[357.86842424535769; 72.608770688486899; 55855.161138522832],-2.13157575464,insufficient data,343.9,nan
