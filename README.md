@@ -1,6 +1,6 @@
 # Primary red bed magnetization revealed by fluvial intraclasts
 
-This respository is associated with a manuscript that has been submitted for consideration in the Geological Society of America journal GEOLOGY. 
+This respository is associated with a manuscript that is in preparation. 
 
 **Primary red bed magnetization revealed by fluvial intraclasts**
 
