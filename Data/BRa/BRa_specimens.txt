@@ -1,0 +1,37 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+BRa.1a	BRa.1		This study	LP-NOMAG		
+BRa.2a	BRa.2		This study	LP-NOMAG		
+BRa.3a	BRa.3		This study	LP-NOMAG		
+BRa.4a	BRa.4		This study	LP-NOMAG		
+BRa.5a	BRa.5		This study	LP-NOMAG		
+BRa.6a	BRa.6		This study	LP-NOMAG		
+BRa.7a	BRa.7		This study	LP-NOMAG		
+BRa.8a	BRa.8		This study	LP-NOMAG		
+BRa.9a	BRa.9		This study	LP-NOMAG		
+BRa.10a	BRa.10		This study	LP-NOMAG		
+BRa.11a	BRa.11		This study	LP-NOMAG		
+BRa.12a	BRa.12		This study	LP-NOMAG		
+BRa.13a	BRa.13		This study	LP-NOMAG		
+BRa.14a	BRa.14		This study	LP-NOMAG		
+BRa.15a	BRa.15		This study	LP-NOMAG		
+BRa.16a	BRa.16		This study	LP-NOMAG		
+BRa.17a	BRa.17		This study	LP-NOMAG		
+BRa.18a	BRa.18		This study	LP-NOMAG		
+BRa.19a	BRa.19		This study	LP-NOMAG		
+BRa.20a	BRa.20		This study	LP-NOMAG		
+BRa.21a	BRa.21		This study	LP-NOMAG		
+BRa.22a	BRa.22		This study	LP-NOMAG		
+BRa.23a	BRa.23		This study	LP-NOMAG		
+BRa.24a	BRa.24		This study	LP-NOMAG		
+BRa.25a	BRa.25		This study	LP-NOMAG		
+BRa.26a	BRa.26		This study	LP-NOMAG		
+BRa.27a	BRa.27		This study	LP-NOMAG		
+BRa.28a	BRa.28		This study	LP-NOMAG		
+BRa.29a	BRa.29		This study	LP-NOMAG		
+BRa.31a	BRa.31		This study	LP-NOMAG		
+BRa.32a	BRa.32		This study	LP-NOMAG		
+BRa.33a	BRa.33		This study	LP-NOMAG		
+BRa.34a	BRa.34		This study	LP-NOMAG		
+BRa.35a	BRa.35		This study	LP-NOMAG		
+BRa.36a	BRa.36		This study	LP-NOMAG		

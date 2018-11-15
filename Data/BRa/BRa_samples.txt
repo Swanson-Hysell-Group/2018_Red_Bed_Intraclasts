@@ -1,0 +1,37 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+BRa.1	BRa	1.2					  -26.1	    0.0	   73.1	  301.2	  -18.0	This study	SO-CMD-NORTH
+BRa.2	BRa	1.4					  -13.1	    0.0	   73.1	  301.2	  -53.0	This study	SO-CMD-NORTH
+BRa.3	BRa	1.7					   41.9	    0.0	   73.1	  301.2	  -40.0	This study	SO-CMD-NORTH
+BRa.4	BRa	1.9					   23.9	    0.0	   73.1	  301.2	  -17.0	This study	SO-CMD-NORTH
+BRa.5	BRa	2.1					  -43.1	    0.0	   73.1	  301.2	  -36.0	This study	SO-CMD-NORTH
+BRa.6	BRa	2.7					  -89.1	    0.0	   73.1	  301.2	  -33.0	This study	SO-CMD-NORTH
+BRa.7	BRa	3.8					  116.9	    0.0	   73.1	  301.2	  -72.0	This study	SO-CMD-NORTH
+BRa.8	BRa	4.2					   46.9	    0.0	   73.1	  301.2	  -20.0	This study	SO-CMD-NORTH
+BRa.9	BRa	4.7					   28.9	    0.0	   73.1	  301.2	  -44.0	This study	SO-CMD-NORTH
+BRa.10	BRa	4.9					  -10.1	    0.0	   73.1	  301.2	  -22.0	This study	SO-CMD-NORTH
+BRa.11	BRa	4.6					    8.9	    0.0	   73.1	  301.2	  -25.0	This study	SO-CMD-NORTH
+BRa.12	BRa	4.85					   10.9	    0.0	   73.1	  301.2	  -28.0	This study	SO-CMD-NORTH
+BRa.13	BRa	5.2					  -66.1	    0.0	   73.1	  301.2	  -24.0	This study	SO-CMD-NORTH
+BRa.14	BRa	5.8					   96.9	    0.0	   73.1	  301.2	  -55.0	This study	SO-CMD-NORTH
+BRa.15	BRa	7.1					   76.7	    0.0	   73.1	  301.2	   -7.0	This study	SO-CMD-NORTH
+BRa.16	BRa	7.7					  115.9	    0.0	   73.1	  301.2	  -65.0	This study	SO-CMD-NORTH
+BRa.17	BRa	9.3					  229.0	    0.0	   73.1	  301.2	  -11.0	This study	SO-CMD-NORTH
+BRa.18	BRa	10.4					  -10.1	    0.0	   73.1	  301.2	  -29.0	This study	SO-CMD-NORTH
+BRa.19	BRa	12.7					  -40.1	    0.0	   73.1	  301.2	  -15.0	This study	SO-CMD-NORTH
+BRa.20	BRa	12.9					  126.9	    0.0	   73.1	  301.2	  -46.0	This study	SO-CMD-NORTH
+BRa.21	BRa	13.2					   31.7	    0.0	   73.1	  301.2	  -57.0	This study	SO-CMD-NORTH
+BRa.22	BRa	14.2					  114.1	    0.0	   73.1	  301.2	  -62.0	This study	SO-CMD-NORTH
+BRa.23	BRa	18.9					  222.9	    0.0	   73.1	  301.2	   -3.0	This study	SO-CMD-NORTH
+BRa.24	BRa	14.7					  115.8	    0.0	   73.1	  301.2	  -26.0	This study	SO-CMD-NORTH
+BRa.25	BRa	14.9					  125.9	    0.0	   73.1	  301.2	  -40.0	This study	SO-CMD-NORTH
+BRa.26	BRa	15.9					  134.9	    0.0	   73.1	  301.2	  -30.0	This study	SO-CMD-NORTH
+BRa.27	BRa	16.2					  188.9	    0.0	   73.1	  301.2	  -18.0	This study	SO-CMD-NORTH
+BRa.28	BRa	16.7					  253.9	    0.0	   73.1	  301.2	  -38.0	This study	SO-CMD-NORTH
+BRa.29	BRa	17.1					  -86.1	    0.0	   73.1	  301.2	  -20.0	This study	SO-CMD-NORTH
+BRa.31	BRa	17.9					  255.9	    0.0	   73.1	  301.2	  -19.0	This study	SO-CMD-NORTH
+BRa.32	BRa	18.2					  226.4	    0.0	   73.1	  301.2	  -13.0	This study	SO-CMD-NORTH
+BRa.33	BRa	18.5					  227.9	    0.0	   73.1	  301.2	  -33.0	This study	SO-CMD-NORTH
+BRa.34	BRa	19.3					  -31.1	    0.0	   73.1	  301.2	  -19.0	This study	SO-CMD-NORTH
+BRa.35	BRa	19.8					  115.9	    0.0	   73.1	  301.2	  -25.0	This study	SO-CMD-NORTH
+BRa.36	BRa	20.3					  226.9	    0.0	   73.1	  301.2	  -29.0	This study	SO-CMD-NORTH

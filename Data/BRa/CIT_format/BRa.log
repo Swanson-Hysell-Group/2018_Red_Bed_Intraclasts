@@ -1,0 +1,311 @@
+2017-08-30 11:37:22: BRa.26a: NRM  0 (Up): Unacceptable slop on up/down motor moving from  -48 to -16944 at speed  30000000.    Target position: -16944  Current position: -4410    Execution has been paused. Please check machine.
+2017-08-30 11:42:10: BRa.26a: NRM  0 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-08-30 11:54:33: BRa.34a: NRM  0 (Up): Red
+2017-08-30 13:10:25: BRa.16a: NRM  0 (Dn): Red
+2017-08-30 13:21:47: BRa.22a: NRM  0 (Dn): Red
+2017-09-11 10:47:32: BRa.15a: TT  100 (Up): Unacceptable slop on up/down motor moving from  -95 to -17137 at speed  30000000.    Target position: -17137  Current position: -4907    Execution has been paused. Please check machine.
+2017-09-11 12:29:54: BRa.15a: TT  100 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-11 12:39:38: BRa.19a: TT  100 (Up): Red
+2017-09-11 12:56:22: BRa.27a: TT  100 (Up): Unacceptable slop on up/down motor moving from  -97 to -17128 at speed  30000000.    Target position: -17128  Current position: -5037    Execution has been paused. Please check machine.
+2017-09-11 12:56:25: BRa.27a: TT  100 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-11 15:29:58: BRa.7a: TT  100 (Dn): Red
+2017-09-11 15:41:40: BRa.14a: TT  100 (Dn): Red
+2017-09-11 15:51:27: BRa.18a: TT  100 (Dn): Red
+2017-09-11 16:02:24: BRa.24a: TT  100 (Dn): Red
+2017-09-11 16:14:15: BRa.29a: TT  100 (Dn): Red
+2017-09-11 16:24:09: BRa.35a: TT  100 (Dn): Red
+2017-09-11 17:07:04: BRa.15a: TT  100 (Up): Unacceptable slop on up/down motor moving from  -95 to -17136 at speed  30000000.    Target position: -17136  Current position: -4940    Execution has been paused. Please check machine.
+2017-09-11 17:22:01: BRa.15a: TT  100 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-18 10:30:33: BRa.15a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -95 to -17143 at speed  30000000.    Target position: -17143  Current position: -4869    Execution has been paused. Please check machine.
+2017-09-18 11:07:59: BRa.15a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-18 11:24:29: BRa.23a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -46 to -17160 at speed  30000000.    Target position: -17160  Current position: -4845    Execution has been paused. Please check machine.
+2017-09-18 11:31:34: BRa.23a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-18 11:33:17: BRa.24a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -44 to -17044 at speed  30000000.    Target position: -17044  Current position: -4659    Execution has been paused. Please check machine.
+2017-09-18 11:33:25: BRa.24a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-18 11:40:02: BRa.26a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -48 to -16948 at speed  30000000.    Target position: -16948  Current position: -4420    Execution has been paused. Please check machine.
+2017-09-18 11:40:17: BRa.26a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-18 11:42:21: BRa.27a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -46 to -17131 at speed  30000000.    Target position: -17131  Current position: -4841    Execution has been paused. Please check machine.
+2017-09-18 11:42:35: BRa.27a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-18 11:46:47: BRa.28a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -94 to -17033 at speed  30000000.    Target position: -17033  Current position: -4615    Execution has been paused. Please check machine.
+2017-09-18 11:46:56: BRa.28a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2017-09-20 10:28:00: BRa.20a: TT  300 (Up): Red
+2017-09-20 10:36:55: BRa.25a: TT  300 (Up): Red
+2017-09-20 10:48:55: BRa.31a: TT  300 (Up): Red
+2017-09-20 10:54:49: BRa.34a: TT  300 (Up): Red
+2017-09-20 12:24:56: BRa.19a: TT  300 (Dn): Unacceptable slop on up/down motor moving from  -49 to -44210 at speed  60000000.    Target position: -44210  Current position: -4629    Execution has been paused. Please check machine.
+2017-09-20 12:41:03: BRa.19a: TT  300 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-09-20 12:49:22: BRa.24a: TT  300 (Dn): Red
+2017-09-27 10:53:19: BRa.26a: TT  400 (Up): Red
+2017-09-30 16:57:04: BRa.3a: TT  450 (Up): Red
+2017-09-30 20:37:25: BRa.29a: TT  450 (Dn): Red
+2017-10-14 17:35:33: BRa.34a: TT  500 (Dn): Unacceptable slop on up/down motor moving from  -43 to -44447 at speed  80000000.    Target position: -44447  Current position: -5102    Execution has been paused. Please check machine.
+2017-10-15 09:40:50: BRa.34a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 09:40:56: BRa.34a: TT  500 (Dn): Homed to top but did not hit switch.
+2017-10-15 09:41:27: BRa.34a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 09:41:30: BRa.34a: TT  500 (Dn): Homed to top but did not hit switch.
+2017-10-15 09:42:29: BRa.34a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 09:43:11: BRa.34a: TT  500 (Dn): Homed to top but did not hit switch.
+2017-10-15 09:44:27: BRa.34a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 09:44:41: BRa.34a: TT  500 (Dn): Homed to top but did not hit switch.
+2017-10-15 09:44:49: BRa.34a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-15 09:46:11: BRa.34a: TT  500 (Dn): Red
+2017-10-22 12:04:54: BRa.8a: TT  525 (Dn): Unacceptable slop on up/down motor moving from  -90 to -44258 at speed  80000000.    Target position: -44258  Current position: -4868    Execution has been paused. Please check machine.
+2017-10-22 12:06:02: BRa.8a: TT  525 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2017-10-22 12:10:26: BRa.11a: TT  525 (Dn): Red
+2017-10-22 12:21:22: BRa.18a: TT  525 (Dn): Red
+2017-10-22 12:29:17: BRa.24a: TT  525 (Dn): Red
+2017-11-04 16:42:38: BRa.24a: TT  550 (Dn): Red
+2018-01-18 20:34:15: BRa.23a: TT  560 (Up): Red
+2018-01-18 20:34:37: BRa.23a: TT  560 (Up): Unacceptable slop on turning motor from   .045degrees to  90 degrees.    Target position:  2000  Current position:  76    Execution has been paused. Please check machine.
+2018-01-18 20:54:55: BRa.23a: TT  560 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-01-18 20:55:37: BRa.23a: TT  560 (Up): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  92    Execution has been paused. Please check machine.
+2018-01-18 20:55:43: BRa.23a: TT  560 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-01-18 20:57:11: BRa.24a: TT  560 (Up): Red
+2018-01-18 20:57:33: BRa.24a: TT  560 (Up): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  88    Execution has been paused. Please check machine.
+2018-01-18 20:57:54: BRa.24a: TT  560 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-01-18 21:03:20: BRa.24a: TT  560 (Up): Unacceptable slop on turning motor from   .045degrees to  90 degrees.    Target position:  2000  Current position:  85    Execution has been paused. Please check machine.
+2018-01-18 21:03:24: BRa.24a: TT  560 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-01-18 21:44:01: BRa.35a: TT  560 (Up): Red
+2018-01-18 21:44:23: BRa.35a: TT  560 (Up): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  84    Execution has been paused. Please check machine.
+2018-01-18 21:47:46: BRa.35a: TT  560 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-01-18 21:50:06: BRa.35a: TT  560 (Up): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  76    Execution has been paused. Please check machine.
+2018-01-18 21:50:09: BRa.35a: TT  560 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-02-11 17:25:37: BRa.31a: TT  565 (Up): Red
+2018-02-11 19:11:21: BRa.20a: TT  565 (Dn): Red
+2018-02-15 14:09:23: BRa.21a: TT  570 (Dn): Unacceptable slop on up/down motor moving from  -45 to -44047 at speed  80000000.    Target position: -44047  Current position: -4609    Execution has been paused. Please check machine.
+2018-02-15 14:12:35: BRa.21a: TT  570 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-02-15 14:17:22: BRa.24a: TT  570 (Dn): Unacceptable slop on up/down motor moving from  -39 to -44081 at speed  80000000.    Target position: -44081  Current position: -4071    Execution has been paused. Please check machine.
+2018-02-15 14:29:17: BRa.24a: TT  570 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-02-15 14:29:20: BRa.24a: TT  570 (Dn): Homed to top but did not hit switch.
+2018-02-15 14:29:30: BRa.24a: TT  570 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-02-15 14:29:37: BRa.24a: TT  570 (Dn): Homed to top but did not hit switch.
+2018-02-15 14:30:01: BRa.24a: TT  570 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-02-18 17:45:05: BRa.35a: TT  575 (Up): Red
+2018-02-25 14:15:49: BRa.27a: TT  575 (Dn): Unacceptable slop on up/down motor moving from  -45 to -44011 at speed  80000000.    Target position: -44011  Current position: -4674    Execution has been paused. Please check machine.
+2018-02-25 14:57:48: BRa.27a: TT  575 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-02-25 15:00:50: BRa.28a: TT  575 (Dn): Unacceptable slop on up/down motor moving from  -45 to -43940 at speed  80000000.    Target position: -43940  Current position: -4387    Execution has been paused. Please check machine.
+2018-02-25 15:01:33: BRa.28a: TT  575 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 16:37:53: BRa.21a: TT  580 (Up): Red
+2018-03-08 16:39:43: BRa.22a: TT  580 (Up): Red
+2018-03-08 18:17:04: BRa.21a: TT  580 (Dn): Unacceptable slop on turning motor from   .09degrees to  90 degrees.    Target position:  2000  Current position:  87    Execution has been paused. Please check machine.
+2018-03-08 18:23:05: BRa.21a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 18:23:47: BRa.21a: TT  580 (Dn): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  79    Execution has been paused. Please check machine.
+2018-03-08 18:28:16: BRa.21a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 18:28:57: BRa.21a: TT  580 (Dn): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  82    Execution has been paused. Please check machine.
+2018-03-08 18:29:05: BRa.21a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 18:32:24: BRa.22a: TT  580 (Dn): Red
+2018-03-08 18:35:17: BRa.24a: TT  580 (Dn): Red
+2018-03-08 18:39:08: BRa.27a: TT  580 (Dn): Unacceptable slop on up/down motor moving from  -47 to -44293 at speed  80000000.    Target position: -44293  Current position: -5008    Execution has been paused. Please check machine.
+2018-03-08 18:39:15: BRa.27a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 18:47:43: BRa.33a: TT  580 (Dn): Unacceptable slop on turning motor from   .045degrees to  90 degrees.    Target position:  2000  Current position:  77    Execution has been paused. Please check machine.
+2018-03-08 19:00:37: BRa.33a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 19:01:59: BRa.33a: TT  580 (Dn): Homed to top but did not hit switch.
+2018-03-08 19:02:02: BRa.33a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 19:02:03: BRa.33a: TT  580 (Dn): Homed to top but did not hit switch.
+2018-03-08 19:02:42: BRa.33a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-08 19:04:23: BRa.34a: TT  580 (Dn): Unacceptable slop on up/down motor moving from  -47 to -44296 at speed  80000000.    Target position: -44296  Current position: -4939    Execution has been paused. Please check machine.
+2018-03-08 19:38:53: BRa.34a: TT  580 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-03-09 14:33:38: BRa.35a: TT  580 (Up): Unacceptable slop on up/down motor moving from  -48 to -44193 at speed  80000000.    Target position: -44193  Current position: -4802    Execution has been paused. Please check machine.
+2018-03-09 14:33:52: BRa.35a: TT  580 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-03-09 14:48:13: BRa.7a: TT  580 (Dn): Red
+2018-04-05 14:53:54: BRa.19a: TT  600 (Up): Red
+2018-04-05 15:08:39: BRa.27a: TT  600 (Up): Unacceptable slop on up/down motor moving from  -40 to -44437 at speed  80000000.    Target position: -44437  Current position: -27860    Execution has been paused. Please check machine.
+2018-04-05 16:02:24: BRa.27a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-05 17:48:19: BRa.11a: TT  600 (Dn): Red
+2018-04-05 18:06:06: BRa.21a: TT  600 (Dn): Red
+2018-04-06 18:16:02: BRa.4a: TT  620 (Up): Unacceptable slop on up/down motor moving from  -44 to -44210 at speed  80000000.    Target position: -44210  Current position: -4821    Execution has been paused. Please check machine.
+2018-04-06 18:16:12: BRa.4a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-06 18:16:24: BRa.4a: TT  620 (Up): Homed to top but did not hit switch.
+2018-04-06 18:16:26: BRa.4a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-06 18:16:28: BRa.4a: TT  620 (Up): Homed to top but did not hit switch.
+2018-04-06 18:16:39: BRa.4a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-06 18:17:36: BRa.4a: TT  620 (Up): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  73    Execution has been paused. Please check machine.
+2018-04-06 18:17:40: BRa.4a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-06 18:18:21: BRa.4a: TT  620 (Up): Unacceptable slop on turning motor from   0degrees to  90 degrees.    Target position:  2000  Current position:  70    Execution has been paused. Please check machine.
+2018-04-06 18:18:37: BRa.4a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-06 18:19:18: BRa.4a: TT  620 (Up): Unacceptable slop on turning motor from  -.045degrees to  90 degrees.    Target position:  2000  Current position:  75    Execution has been paused. Please check machine.
+2018-04-06 18:19:24: BRa.4a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-06 18:33:15: BRa.15a: TT  620 (Up): Unacceptable slop on up/down motor moving from  -44 to -44430 at speed  80000000.    Target position: -44430  Current position: -5234    Execution has been paused. Please check machine.
+2018-04-07 08:34:10: BRa.15a: TT  620 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-04-07 10:03:04: BRa.31a: TT  620 (Up): Red
+2018-04-07 10:04:52: BRa.32a: TT  620 (Up): Red
+2018-04-07 10:09:02: BRa.35a: TT  620 (Up): Red
+2018-04-08 12:32:31: BRa.21a: TT  620 (Dn): Red
+2018-04-08 12:45:10: BRa.27a: TT  620 (Dn): Unacceptable slop on up/down motor moving from  -41 to -44407 at speed  80000000.    Target position: -44407  Current position: -5148    Execution has been paused. Please check machine.
+2018-04-08 12:47:15: BRa.27a: TT  620 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-04-08 12:47:24: BRa.27a: TT  620 (Dn): Unacceptable slop on up/down motor moving from  -69924 to -93009 at speed  30000000.    Target position: -93009  Current position: -69927    Execution has been paused. Please check machine.
+2018-04-08 12:47:28: BRa.27a: TT  620 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-04-08 12:48:00: BRa.27a: TT  620 (Dn): Homed to top but did not hit switch.
+2018-04-08 12:48:03: BRa.27a: TT  620 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-04-08 12:48:04: BRa.27a: TT  620 (Dn): Unacceptable slop on up/down motor moving from  -84713 to -44407 at speed  30000000.    Target position: -44407  Current position: -85283    Execution has been paused. Please check machine.
+2018-04-08 12:48:07: BRa.27a: TT  620 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-04-08 12:52:29: BRa.28a: TT  620 (Dn): Unacceptable slop on up/down motor moving from  -44 to -44307 at speed  80000000.    Target position: -44307  Current position: -4969    Execution has been paused. Please check machine.
+2018-04-08 12:52:44: BRa.28a: TT  620 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-05-03 11:27:08: BRa.1a: TT  630 (Up): Unacceptable slop on up/down motor moving from  -28 to -44400 at speed  80000000.    Target position: -44400  Current position: -5532    Execution has been paused. Please check machine.
+2018-05-03 11:27:12: BRa.1a: TT  630 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-05-03 11:28:38: BRa.1a: TT  630 (Up): Red
+2018-05-03 11:46:08: BRa.11a: TT  630 (Up): Unacceptable slop on up/down motor moving from  -26 to -44291 at speed  80000000.    Target position: -44291  Current position: -5185    Execution has been paused. Please check machine.
+2018-05-03 11:46:18: BRa.11a: TT  630 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-05-03 12:04:02: BRa.21a: TT  630 (Up): Red
+2018-05-03 14:11:21: BRa.28a: TT  630 (Dn): Red
+2018-05-06 10:42:27: BRa.7a: TT  640 (Up): Red
+2018-05-06 10:54:59: BRa.14a: TT  640 (Up): Red
+2018-05-06 11:28:19: BRa.32a: TT  640 (Up): Red
+2018-05-06 11:33:24: BRa.35a: TT  640 (Up): Red
+2018-05-06 11:35:03: BRa.36a: TT  640 (Up): Unacceptable slop on up/down motor moving from  -26 to -44195 at speed  80000000.    Target position: -44195  Current position: -4913    Execution has been paused. Please check machine.
+2018-05-06 11:35:30: BRa.36a: TT  640 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-05-06 13:31:03: BRa.36a: TT  640 (Dn): Red
+2018-05-08 00:25:45: BRa.11a: TT  645 (Up): Red
+2018-05-08 00:30:50: BRa.14a: TT  645 (Up): Red
+2018-05-08 00:50:41: BRa.25a: TT  645 (Up): Red
+2018-05-08 01:05:35: BRa.34a: TT  645 (Up): Unacceptable slop on up/down motor moving from  -23 to -44415 at speed  70000000.    Target position: -44415  Current position: -5233    Execution has been paused. Please check machine.
+2018-05-08 01:09:02: BRa.34a: TT  645 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-05-08 02:56:26: BRa.34a: TT  645 (Dn): Unacceptable slop on up/down motor moving from  -22 to -44417 at speed  70000000.    Target position: -44417  Current position: -5245    Execution has been paused. Please check machine.
+2018-05-08 09:39:32: BRa.34a: TT  645 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-06-07 12:55:42: BRa.18a: TT  650 (Up): Unacceptable slop on up/down motor moving from  -28 to -44303 at speed  70000000.    Target position: -44303  Current position: -4941    Execution has been paused. Please check machine.
+2018-06-07 12:58:18: BRa.18a: TT  650 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-06-07 13:06:09: BRa.24a: TT  650 (Up): Red
+2018-06-07 13:06:11: BRa.24a: TT  650 (Up): Red
+2018-06-07 13:19:32: BRa.33a: TT  650 (Up): Red
+2018-06-07 15:15:45: BRa.10a: TT  650 (Dn): Red
+2018-06-07 15:32:05: BRa.21a: TT  650 (Dn): Red
+2018-06-07 15:36:45: BRa.25a: TT  650 (Dn): Unacceptable slop on up/down motor moving from  -28 to -44466 at speed  70000000.    Target position: -44466  Current position: -5249    Execution has been paused. Please check machine.
+2018-06-07 15:36:49: BRa.25a: TT  650 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-06-21 19:38:18: BRa.31a: TT  655 (Up): Unacceptable slop on up/down motor moving from  -22 to -44431 at speed  70000000.    Target position: -44431  Current position: -5243    Execution has been paused. Please check machine.
+2018-06-21 19:42:51: BRa.31a: TT  655 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-06-21 19:47:51: BRa.33a: TT  655 (Up): Red
+2018-06-21 19:49:41: BRa.34a: TT  655 (Up): Red
+2018-06-21 19:50:51: BRa.35a: TT  655 (Up): Unacceptable slop on up/down motor moving from  -28 to -44333 at speed  70000000.    Target position: -44333  Current position: -5431    Execution has been paused. Please check machine.
+2018-06-21 21:06:44: BRa.35a: TT  655 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-06-22 11:41:16: BRa.11a: TT  655 (Dn): Red
+2018-07-02 13:07:49: BRa.23a: TT  660 (Up): Red
+2018-07-02 13:10:59: BRa.25a: TT  660 (Up): Unacceptable slop on up/down motor moving from  -26 to -44454 at speed  80000000.    Target position: -44454  Current position: -5500    Execution has been paused. Please check machine.
+2018-07-02 13:11:03: BRa.25a: TT  660 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-07-02 13:12:54: BRa.25a: TT  660 (Up): Red
+2018-07-02 13:12:56: BRa.25a: TT  660 (Up): Red
+2018-07-02 13:12:59: BRa.25a: TT  660 (Up): Red
+2018-08-21 09:09:52: BRa.7a: TT  665 (Up): Red
+2018-08-21 09:29:56: BRa.18a: TT  665 (Up): Red
+2018-08-21 09:33:49: BRa.20a: TT  665 (Up): Red
+2018-08-21 10:59:37: BRa.28a: TT  665 (Dn): Red
+2018-08-21 11:11:21: BRa.34a: TT  665 (Dn): Red
+2018-10-31 12:17:32: BRa.13a: TT  668 (Dn): Unacceptable slop on up/down motor moving from  -32 to -44467 at speed  80000000.    Target position: -44467  Current position: -5520    Execution has been paused. Please check machine.
+2018-10-31 12:17:50: BRa.13a: TT  668 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-31 12:36:10: BRa.23a: TT  668 (Dn): Unacceptable slop on up/down motor moving from  -35 to -44674 at speed  80000000.    Target position: -44674  Current position: -5922    Execution has been paused. Please check machine.
+2018-10-31 12:36:20: BRa.23a: TT  668 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-31 12:53:55: BRa.34a: TT  668 (Dn): Unacceptable slop on up/down motor moving from  -34 to -44642 at speed  80000000.    Target position: -44642  Current position: -5902    Execution has been paused. Please check machine.
+2018-10-31 12:54:05: BRa.34a: TT  668 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-10-31 12:54:54: BRa.34a: TT  668 (Dn): Red
+2018-10-31 13:29:35: BRa.13a: TT  668 (Dn): Unacceptable slop on up/down motor moving from  -30 to -44467 at speed  80000000.    Target position: -44467  Current position: -5515    Execution has been paused. Please check machine.
+2018-10-31 13:29:47: BRa.13a: TT  668 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-01 10:08:26: BRa.3a: TT  671 (Up): Unacceptable slop on up/down motor moving from  -34 to -44561 at speed  80000000.    Target position: -44561  Current position: -5457    Execution has been paused. Please check machine.
+2018-11-01 10:08:35: BRa.3a: TT  671 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-01 10:09:13: BRa.3a: TT  671 (Up): Homed to top but did not hit switch.
+2018-11-01 10:09:16: BRa.3a: TT  671 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-01 10:12:48: BRa.4a: TT  671 (Up): Unacceptable slop on up/down motor moving from  -42 to -44641 at speed  80000000.    Target position: -44641  Current position: -5708    Execution has been paused. Please check machine.
+2018-11-01 10:12:57: BRa.4a: TT  671 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-01 10:13:48: BRa.4a: : Homed to top but did not hit switch.
+2018-11-01 10:14:02: BRa.4a: : Hargraves Magnetometer is now operating at code Blue  
+2018-11-01 10:14:47: BRa.5a: : Homed to top but did not hit switch.
+2018-11-01 10:15:23: BRa.5a: : Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 15:17:00: BRa.12a: TT  674 (Up): Unacceptable slop on up/down motor moving from  -44 to -44536 at speed  80000000.    Target position: -44536  Current position: -5567    Execution has been paused. Please check machine.
+2018-11-02 15:17:18: BRa.12a: TT  674 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 15:47:22: BRa.34a: TT  674 (Up): Unacceptable slop on up/down motor moving from  -44 to -44645 at speed  80000000.    Target position: -44645  Current position: -5614    Execution has been paused. Please check machine.
+2018-11-02 15:47:35: BRa.34a: TT  674 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 16:47:20: BRa.13a: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -44 to -44480 at speed  80000000.    Target position: -44480  Current position: -5329    Execution has been paused. Please check machine.
+2018-11-02 16:47:31: BRa.13a: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 16:51:44: BRa.16a: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -43 to -44493 at speed  80000000.    Target position: -44493  Current position: -5320    Execution has been paused. Please check machine.
+2018-11-02 16:51:49: BRa.16a: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 17:03:35: BRa.23a: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -43 to -44671 at speed  80000000.    Target position: -44671  Current position: -5689    Execution has been paused. Please check machine.
+2018-11-02 17:03:54: BRa.23a: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 17:12:01: BRa.27a: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -42 to -44649 at speed  80000000.    Target position: -44649  Current position: -5723    Execution has been paused. Please check machine.
+2018-11-02 17:12:10: BRa.27a: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 17:21:02: BRa.34a: TT  674 (Dn): Unacceptable slop on up/down motor moving from  -42 to -44649 at speed  80000000.    Target position: -44649  Current position: -5664    Execution has been paused. Please check machine.
+2018-11-02 17:21:10: BRa.34a: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-02 17:21:44: BRa.34a: TT  674 (Dn): Unacceptable slop on turning motor from   .045degrees to  90 degrees.    Target position:  2000  Current position:  101    Execution has been paused. Please check machine.
+2018-11-02 17:21:57: BRa.34a: TT  674 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 17:12:28: BRa.4a: TT  676 (Up): Unacceptable slop on up/down motor moving from  -35 to -44464 at speed  80000000.    Target position: -44464  Current position: -5357    Execution has been paused. Please check machine.
+2018-11-03 17:12:51: BRa.4a: TT  676 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 17:17:52: BRa.7a: : Homed to top but did not hit switch.
+2018-11-03 17:18:01: BRa.7a: : Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 17:18:06: BRa.7a: : Homed to top but did not hit switch.
+2018-11-03 17:18:09: BRa.7a: : Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 18:40:19: BRa.16a: TT  676 (Up): Unacceptable slop on up/down motor moving from  -35 to -44497 at speed  80000000.    Target position: -44497  Current position: -5371    Execution has been paused. Please check machine.
+2018-11-03 18:40:28: BRa.16a: TT  676 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 18:44:25: BRa.18a: TT  676 (Up): Unacceptable slop on up/down motor moving from  -36 to -44547 at speed  80000000.    Target position: -44547  Current position: -5493    Execution has been paused. Please check machine.
+2018-11-03 18:44:40: BRa.18a: TT  676 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 18:55:47: BRa.27a: TT  676 (Up): Unacceptable slop on up/down motor moving from  -35 to -44665 at speed  80000000.    Target position: -44665  Current position: -5725    Execution has been paused. Please check machine.
+2018-11-03 18:55:55: BRa.27a: TT  676 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 19:02:10: BRa.31a: TT  676 (Up): Unacceptable slop on up/down motor moving from  -35 to -44667 at speed  80000000.    Target position: -44667  Current position: -5749    Execution has been paused. Please check machine.
+2018-11-03 19:02:25: BRa.31a: TT  676 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 19:09:41: BRa.36a: TT  676 (Up): Unacceptable slop on up/down motor moving from  -35 to -44468 at speed  80000000.    Target position: -44468  Current position: -5288    Execution has been paused. Please check machine.
+2018-11-03 19:10:03: BRa.36a: TT  676 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-03 20:10:27: BRa.16a: TT  676 (Dn): Unacceptable slop on turning motor from   .09degrees to  90 degrees.    Target position:  2000  Current position:  77    Execution has been paused. Please check machine.
+2018-11-04 09:53:31: BRa.16a: TT  676 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-04 10:08:54: BRa.27a: TT  676 (Dn): Unacceptable slop on up/down motor moving from  -34 to -44679 at speed  80000000.    Target position: -44679  Current position: -5748    Execution has been paused. Please check machine.
+2018-11-04 10:09:11: BRa.27a: TT  676 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-08 16:29:30: BRa.15a: TT  679 (Up): Unacceptable slop on up/down motor moving from  -30 to -44392 at speed  80000000.    Target position: -44392  Current position: -4766    Execution has been paused. Please check machine.
+2018-11-08 17:06:19: BRa.15a: TT  679 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-08 17:23:31: BRa.22a: TT  679 (Up): Unacceptable slop on up/down motor moving from  -33 to -44210 at speed  80000000.    Target position: -44210  Current position: -4268    Execution has been paused. Please check machine.
+2018-11-08 17:31:10: BRa.22a: TT  679 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-09 09:24:25: BRa.16a: TT  679 (Dn): Unacceptable slop on up/down motor moving from  -34 to -44238 at speed  80000000.    Target position: -44238  Current position: -4354    Execution has been paused. Please check machine.
+2018-11-09 09:24:36: BRa.16a: TT  679 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-10 14:01:23: BRa.26a: TT  681 (Up): Unacceptable slop on up/down motor moving from  -36 to -44198 at speed  80000000.    Target position: -44198  Current position: -4153    Execution has been paused. Please check machine.
+2018-11-10 14:26:45: BRa.26a: TT  681 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-10 14:41:04: BRa.36a: TT  681 (Up): Unacceptable slop on up/down motor moving from  -37 to -44200 at speed  80000000.    Target position: -44200  Current position: -4121    Execution has been paused. Please check machine.
+2018-11-10 15:07:41: BRa.36a: TT  681 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-10 16:37:10: BRa.11a: TT  681 (Dn): Unacceptable slop on up/down motor moving from  -33 to -44316 at speed  80000000.    Target position: -44316  Current position: -4481    Execution has been paused. Please check machine.
+2018-11-10 16:57:08: BRa.11a: TT  681 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-10 16:58:21: BRa.12a: TT  681 (Dn): Unacceptable slop on up/down motor moving from  -37 to -44291 at speed  80000000.    Target position: -44291  Current position: -4308    Execution has been paused. Please check machine.
+2018-11-10 16:58:42: BRa.12a: TT  681 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-10 17:11:03: BRa.20a: TT  681 (Dn): Red
+2018-11-10 17:18:34: BRa.26a: TT  681 (Dn): Unacceptable slop on up/down motor moving from  -37 to -44209 at speed  80000000.    Target position: -44209  Current position: -2989    Execution has been paused. Please check machine.
+2018-11-10 17:47:28: BRa.26a: TT  681 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-11 22:50:02: BRa.4a: TT  681 (Up): Unacceptable slop on up/down motor moving from  -30 to -44214 at speed  80000000.    Target position: -44214  Current position: -4318    Execution has been paused. Please check machine.
+2018-11-11 22:50:19: BRa.4a: TT  681 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-11 23:05:38: BRa.34a: TT  681 (Dn): Unacceptable slop on up/down motor moving from  -26 to -44425 at speed  80000000.    Target position: -44425  Current position: -4818    Execution has been paused. Please check machine.
+2018-11-11 23:06:05: BRa.34a: TT  681 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-12 17:25:12: BRa.36a: TT  683 (Dn): Unacceptable slop on up/down motor moving from  -32 to -44234 at speed  80000000.    Target position: -44234  Current position: -3042    Execution has been paused. Please check machine.
+2018-11-12 17:38:54: BRa.36a: TT  683 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-12 17:39:02: BRa.36a: TT  683 (Dn): Homed to top but did not hit switch.
+2018-11-12 17:39:38: BRa.36a: TT  683 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-12 18:30:02: BRa.22a: TT  683 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44251 at speed  80000000.    Target position: -44251  Current position: -4420    Execution has been paused. Please check machine.
+2018-11-12 18:30:19: BRa.22a: TT  683 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 01:28:49: BRa.36a: TT  685 (Up): Unacceptable slop on up/down motor moving from  -28 to -44234 at speed  80000000.    Target position: -44234  Current position: -4182    Execution has been paused. Please check machine.
+2018-11-13 09:04:24: BRa.36a: TT  685 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 09:04:38: BRa.36a: TT  685 (Up): Homed to top but did not hit switch.
+2018-11-13 09:31:51: BRa.36a: TT  685 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 10:46:50: BRa.25a: TT  685 (Dn): Unacceptable slop on up/down motor moving from  -32 to -44475 at speed  80000000.    Target position: -44475  Current position: -4771    Execution has been paused. Please check machine.
+2018-11-13 11:03:37: BRa.25a: TT  685 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 11:18:39: BRa.36a: TT  685 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44240 at speed  80000000.    Target position: -44240  Current position: -4178    Execution has been paused. Please check machine.
+2018-11-13 11:18:52: BRa.36a: TT  685 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 19:28:41: BRa.10a: TT  687 (Dn): Unacceptable slop on up/down motor moving from  -28 to -44307 at speed  80000000.    Target position: -44307  Current position: -4550    Execution has been paused. Please check machine.
+2018-11-13 19:28:50: BRa.10a: TT  687 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 19:33:11: BRa.13a: TT  687 (Dn): Unacceptable slop on up/down motor moving from  -29 to -44274 at speed  80000000.    Target position: -44274  Current position: -4417    Execution has been paused. Please check machine.
+2018-11-13 19:37:19: BRa.13a: TT  687 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 19:55:38: BRa.23a: TT  687 (Dn): Unacceptable slop on up/down motor moving from  -30 to -44457 at speed  80000000.    Target position: -44457  Current position: -4831    Execution has been paused. Please check machine.
+2018-11-13 19:57:18: BRa.23a: TT  687 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-13 20:15:02: BRa.34a: TT  687 (Dn): Unacceptable slop on up/down motor moving from  -30 to -44440 at speed  80000000.    Target position: -44440  Current position: -4866    Execution has been paused. Please check machine.
+2018-11-13 20:19:32: BRa.34a: TT  687 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 00:10:16: BRa.1a: TT  689 (Up): Homed to top but did not hit switch.
+2018-11-14 00:10:22: BRa.1a: TT  689 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 00:19:44: BRa.8a: TT  689 (Up): Unacceptable slop on up/down motor moving from  -33 to -44278 at speed  80000000.    Target position: -44278  Current position: -15716    Execution has been paused. Please check machine.
+2018-11-14 00:26:24: BRa.8a: TT  689 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 00:28:06: BRa.9a: : Homed to top but did not hit switch.
+2018-11-14 00:28:11: BRa.9a: : Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 00:38:55: BRa.16a: TT  689 (Up): Unacceptable slop on up/down motor moving from  -33 to -44300 at speed  80000000.    Target position: -44300  Current position: -26872    Execution has been paused. Please check machine.
+2018-11-14 00:40:56: BRa.16a: TT  689 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 00:42:17: BRa.17a: TT  689 (Up): Unacceptable slop on up/down motor moving from  -31 to -44317 at speed  80000000.    Target position: -44317  Current position: -4367    Execution has been paused. Please check machine.
+2018-11-14 00:42:27: BRa.17a: TT  689 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 00:44:03: BRa.18a: TT  689 (Up): Unacceptable slop on up/down motor moving from  -28 to -44347 at speed  80000000.    Target position: -44347  Current position: -16153    Execution has been paused. Please check machine.
+2018-11-14 00:45:38: BRa.18a: TT  689 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 01:11:08: BRa.36a: TT  689 (Up): Unacceptable slop on up/down motor moving from  -34 to -44274 at speed  80000000.    Target position: -44274  Current position: -4300    Execution has been paused. Please check machine.
+2018-11-14 01:12:37: BRa.36a: TT  689 (Up): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 01:20:48: BRa.4a: TT  689 (Dn): Unacceptable slop on up/down motor moving from  -39 to -44256 at speed  80000000.    Target position: -44256  Current position: -4264    Execution has been paused. Please check machine.
+2018-11-14 01:23:15: BRa.4a: TT  689 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 01:54:46: BRa.27a: TT  689 (Dn): Unacceptable slop on up/down motor moving from  -34 to -44479 at speed  80000000.    Target position: -44479  Current position: -4873    Execution has been paused. Please check machine.
+2018-11-14 01:59:23: BRa.27a: TT  689 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 02:35:57: BRa.14a: TT  689 (Dn): Unacceptable slop on up/down motor moving from  -37 to -44258 at speed  80000000.    Target position: -44258  Current position: -4271    Execution has been paused. Please check machine.
+2018-11-14 02:39:33: BRa.14a: TT  689 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2018-11-14 02:40:02: BRa.14a: TT  689 (Dn): Homed to top but did not hit switch.
+2018-11-14 02:40:05: BRa.14a: TT  689 (Dn): Hargraves Magnetometer is now operating at code Blue  
