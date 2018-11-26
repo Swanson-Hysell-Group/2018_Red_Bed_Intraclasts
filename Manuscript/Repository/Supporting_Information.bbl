@@ -1,0 +1,55 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Elmore and Van~der Voo(1982)}]{Elmore1982a}
+Elmore, R.~D. and Van~der Voo, R., 1982, Origin of hematite and its associated
+  remanence in the {C}opper {H}arbor {C}onglomerate ({K}eweenawan), upper
+  {M}ichigan: J. Geophys. Res., vol.~87, pp. 10,918--10,928,
+  \doi{10.1029/JB087iB13p10918}.
+
+\bibitem[{Jirsa et~al.(2011)Jirsa, Boerboom, Chandler, Mossler, Runkel, and
+  Setterholm}]{Jirsa2011a}
+Jirsa, M.~A., Boerboom, T., Chandler, V., Mossler, J., Runkel, A., and
+  Setterholm, D., 2011, S-21 {G}eologic map of {M}innesota-bedrock geology:
+  Tech. rep., Minnesota Geological Survey,
+  \urlprefix\url{http://hdl.handle.net/11299/101466}.
+
+\bibitem[{Nicholson et~al.(2004)Nicholson, Dicken, Foose, and
+  Mueller}]{Nicholson2004a}
+Nicholson, S.~W., Dicken, C.~L., Foose, M.~P., and Mueller, J. A.~L., 2004,
+  {Preliminary integrated geologic map databases for the United States:
+  Minnesota, Wisconsin, Michigan, Illinois, and Indiana}: {U.S. Geological
+  Survey Open-File Report}, U.S. Geological Survey,
+  \urlprefix\url{http://pubs.usgs.gov/of/2004/1355/}.
+
+\bibitem[{{Ontario Geological Survey}(2011)}]{Survey2011a}
+{Ontario Geological Survey}, 2011, 1:250 000 scale bedrock geology of
+  {O}ntario, {M}iscellaneous {R}elease---{D}ata 126-{R}evision 1: Tech. rep.,
+  Ontario Geological Survey.
+
+\bibitem[{Stewart and Mauk(2017)}]{Stewart2017a}
+Stewart, E.~K. and Mauk, J.~L., 2017, {Sedimentology, sequence-stratigraphy,
+  and geochemical variations in the Mesoproterozoic Nonesuch Formation,
+  northern Wisconsin, USA}: Precambrian Research, vol. 294, pp. 111--132,
+  \doi{10.1016/j.precamres.2017.03.023}.
+
+\bibitem[{Ullman et~al.(2015)Ullman, Carlson, LeGrande, Anslow, Moore, Caffee,
+  Syverson, and Licciardi}]{Ullman2015a}
+Ullman, D.~J., Carlson, A.~E., LeGrande, A.~N., Anslow, F.~S., Moore, A.~K.,
+  Caffee, M., Syverson, K.~M., and Licciardi, J.~M., 2015, Southern
+  {L}aurentide ice-sheet retreat synchronous with rising boreal summer
+  insolation: Geology, vol.~43, pp. 23--26, \doi{10.1130/g36179.1}.
+
+\bibitem[{Vincenz and Yaskawa(1968)}]{Vincenz1968b}
+Vincenz, S.~A. and Yaskawa, K., 1968, Phenomenon of partial self-reversal in
+  {K}eweenawan rocks 2. magnetization of upper {K}eweenawan lavas and sediments
+  and of lower {K}eweenawan dikes: Journal of Geophysical Research, vol.~73,
+  \doi{10.1029/JB073i008p02753}.
+
+\end{thebibliography}
